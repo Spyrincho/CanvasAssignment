@@ -1,0 +1,9 @@
+body{
+  background-color: #37769A;
+  margin-top: 100px;
+  text-align: center;
+}
+#myCanvas{
+  background-color: rgba(171, 213, 236, 0.5);
+  border-radius: 10px;
+}
